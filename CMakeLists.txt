@@ -27,8 +27,6 @@ find_package(std_msgs REQUIRED)
 
 set(msg_files
   msg/Mode.msg
-  msg/Velocities.msg
-  msg/Feedback.msg
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
