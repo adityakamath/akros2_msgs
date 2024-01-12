@@ -32,6 +32,6 @@ set(msg_files
 rosidl_generate_interfaces(${PROJECT_NAME}
   ${msg_files}
   DEPENDENCIES std_msgs
- )
+)
 
 ament_package()
