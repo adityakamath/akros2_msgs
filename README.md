@@ -1,4 +1,7 @@
 # akros2_msgs
+![](https://img.shields.io/badge/ROS%202%20Galactic-Ubuntu%2020.04-blue) ![](https://img.shields.io/badge/ROS%202%20Humble-Ubuntu%2022.04-blue) ![](https://img.shields.io/badge/ROS%202%20Jazzy-Ubuntu%2024.04-blue) ![GitHub License](https://img.shields.io/github/license/adityakamath/akros2_bringup)
+ ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kamathsblog)
+ 
 Custom messages for the AKROS2 robot
 
 ## Mode.msg
